@@ -338,6 +338,8 @@ Si el medidor lee 5.55 mA significa que la resistencia 1 está abierta.
 
 En el presente video se explican unos ejercicios para la mejor comprensión del tema.
 
+https://youtu.be/gMmJf0zEmVo
+
 # 5.-CONCLUSIONES
 
 •	Aprendí a identificar una circuito resistivo en serie y paralelo.
